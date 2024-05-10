@@ -93,7 +93,7 @@ export const FeaturesSection = () => {
                 Personalized Support Every Step of the Way
                 </h3>
                 <p>
-                From initial consultation to post-placement assistance, our dedicated team is here to support you throughout your overseas employment journey. Whether it's visa processing, relocation logistics, or cultural adaptation, count on us to provide personalized guidance and support to ensure a smooth and successful transition.
+                From initial consultation to post-placement assistance, our dedicated team is here to support you throughout your overseas employment journey. Whether it&apos;s visa processing, relocation logistics, or cultural adaptation, count on us to provide personalized guidance and support to ensure a smooth and successful transition.
                 </p>
               </div>
             </li>

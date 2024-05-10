@@ -104,7 +104,7 @@ export const AboutSection = () => {
           </header>
 
           <p className={styles.caption} data-aos="fade-up" data-aos-delay="300">
-          We're committed to connecting skilled professionals with exciting career opportunities worldwide. With our extensive network of trusted partners and clients spanning continents, we're able to offer a wide range of opportunities in various sectors, including but not limited to technology, finance, healthcare, engineering, and hospitality. 
+          We&apos;re committed to connecting skilled professionals with exciting career opportunities worldwide. With our extensive network of trusted partners and clients spanning continents, we&apos;re able to offer a wide range of opportunities in various sectors, including but not limited to technology, finance, healthcare, engineering, and hospitality. 
 
 
           </p>
