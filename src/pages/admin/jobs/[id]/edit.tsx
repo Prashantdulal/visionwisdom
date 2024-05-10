@@ -21,7 +21,7 @@ import TextAlign from "@tiptap/extension-text-align";
 import Underline from "@tiptap/extension-underline";
 import { useEditor } from "@tiptap/react";
 import { Link } from "@mantine/tiptap";
-import { StarterKit } from "@tiptap/starter-kit";
+import StarterKit from "@tiptap/starter-kit";
 import { useRouter } from "next/router";
 import { queryClient } from "@/pages/_app";
 import { Jobs } from "@/models/Job";
@@ -73,7 +73,7 @@ const EditCourse = () => {
 
   const editor = useEditor({
     extensions: [
-      
+      StarterKit,
       Underline,
       Link,
       Superscript,
