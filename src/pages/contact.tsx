@@ -60,7 +60,8 @@ const ContactPage = () => {
 
                 <div>
                   <a href="#" target="_blank">
-                    www.visionwisdomrecruitment.com
+                  visionwisdom
+                  recruitment.com
                   </a>
                   {/* <a href="#" target="_blank">
                     www.wpvibe.com
