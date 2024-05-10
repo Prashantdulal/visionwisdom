@@ -191,7 +191,7 @@ const ContactPage = () => {
           <div>
             <iframe
               aria-hidden="false"
-              src="https://www.google.com/maps/place/Shankhamul+Tower/@27.6838474,85.3336456,17.4z/data=!4m14!1m7!3m6!1s0x39eb19bfc1ca5eb9:0xf60e5906ec7a25d0!2sShankhamul+Tower!8m2!3d27.6841542!4d85.3333621!16s%2Fg%2F11b6gh04zy!3m5!1s0x39eb19bfc1ca5eb9:0xf60e5906ec7a25d0!8m2!3d27.6841542!4d85.3333621!16s%2Fg%2F11b6gh04zy?entry=ttu"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d220.81705459884788!2d85.33325733350303!3d27.68414247202548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb19bfc1ca5eb9%3A0xf60e5906ec7a25d0!2sShankhamul%20Tower!5e0!3m2!1sen!2snp!4v1715372754678!5m2!1sen!2snp"
               tabIndex={0}
               title="Google Map"
             />
