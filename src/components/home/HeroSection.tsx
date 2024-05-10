@@ -81,20 +81,8 @@ export const HeroSection = () => {
       </div>
 
       <div>
-        <Image
-          alt="Decoration 1"
-          className={styles.shape1}
-          width={88.992}
-          height={102}
-          src="/home/shape-1.png"
-        />
-        <Image
-          alt="Decoration 3"
-          className={styles.shape3}
-          width={96}
-          height={96}
-          src="/home/shape-3.png"
-        />
+     
+   
       </div>
     </section>
   );
