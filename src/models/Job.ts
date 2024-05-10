@@ -17,7 +17,7 @@ export interface Jobs {
 
 const JobSchema = new mongoose.Schema<Jobs>(
   {
-    featuredImage: { type: String, required: true },
+    featuredImage: { type: String, required: false },
     title: { type: String, required: true },
     skillset: { type: String, required: true },
    companyname:{type:String,required:true},

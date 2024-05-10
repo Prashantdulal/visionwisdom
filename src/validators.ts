@@ -17,7 +17,7 @@ export const registerUserSchema = loginUserSchema.merge(
 export const updateUserSchema = registerUserSchema.partial();
 
 export const newCourseSchema = z.object({
-  featuredImage: z.string().min(3, { message: "Featured Image is required" }),
+  featuredImage: z.string(),
   title: z.string(),
   country:z.string(),
   skillset: z.string(),
