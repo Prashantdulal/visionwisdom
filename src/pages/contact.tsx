@@ -56,7 +56,7 @@ const ContactPage = () => {
                   </svg>
                 </div>
 
-                <h3 className={styles.title}>Our Website</h3>
+                <h3 className={styles.title}>Our Website </h3>
 
                 <div>
                   <a href="#" target="_blank">
