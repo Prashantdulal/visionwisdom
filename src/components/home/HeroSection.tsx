@@ -28,7 +28,7 @@ export const HeroSection = () => {
             </h1>
           </header>
           <p className={styles.caption} data-aos="fade-up" data-aos-delay="300">
-          We're the go-to choice for manpower needs, trusted and respected throughout the industry
+          We&apos;re the go-to choice for manpower needs, trusted and respected throughout the industry
           </p>
 
           <div data-aos="fade-up" data-aos-delay="450">
