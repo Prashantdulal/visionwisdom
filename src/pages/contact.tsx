@@ -56,12 +56,11 @@ const ContactPage = () => {
                   </svg>
                 </div>
 
-                <h3 className={styles.title}>Our Website </h3>
+                <h3 className={styles.title}>Our Website</h3>
 
                 <div>
                   <a href="#" target="_blank">
-                  visionwisdom
-                  recruitment.com
+                    www.thetakshila.in
                   </a>
                   {/* <a href="#" target="_blank">
                     www.wpvibe.com
@@ -92,7 +91,7 @@ const ContactPage = () => {
 
                 <div>
                   {/* <p>+91 9172124795</p> */}
-                  <p> +977 9765231442</p>
+                  <p> +977 9851230893</p>
                 </div>
               </div>
 
@@ -120,7 +119,7 @@ const ContactPage = () => {
 
                 <div>
                   <a href="#" target="_blank">
-                    itshrnick111@gmail.com
+                    info@thetakshila.in
                   </a>
                   {/* <a href="#" target="_blank">
                     wpvibe@mail.com
@@ -154,7 +153,7 @@ const ContactPage = () => {
                 <h3 className={styles.title}>Our Location</h3>
 
                 <div>
-                  <p>Sankhamul 32, New Baneswor Kathmandu</p>
+                  <p>Balkumari, Kathmandu</p>
                 </div>
               </div>
             </div>
@@ -191,7 +190,7 @@ const ContactPage = () => {
           <div>
             <iframe
               aria-hidden="false"
-              src="https://www.google.com/maps/place/Shankhamul+Tower/@27.6838474,85.3336456,17.4z/data=!4m14!1m7!3m6!1s0x39eb19bfc1ca5eb9:0xf60e5906ec7a25d0!2sShankhamul+Tower!8m2!3d27.6841542!4d85.3333621!16s%2Fg%2F11b6gh04zy!3m5!1s0x39eb19bfc1ca5eb9:0xf60e5906ec7a25d0!8m2!3d27.6841542!4d85.3333621!16s%2Fg%2F11b6gh04zy?entry=ttu"
+              src="https://maps.google.com/maps?q=2880%20Broadway,%20New%20York&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed"
               tabIndex={0}
               title="Google Map"
             />

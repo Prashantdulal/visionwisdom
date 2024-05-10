@@ -28,7 +28,7 @@ export const HeroSection = () => {
             </h1>
           </header>
           <p className={styles.caption} data-aos="fade-up" data-aos-delay="300">
-          We&apos;re the go-to choice for manpower needs, trusted and respected throughout the industry
+          We're the go-to choice for manpower needs, trusted and respected throughout the industry
           </p>
 
           <div data-aos="fade-up" data-aos-delay="450">
@@ -81,8 +81,20 @@ export const HeroSection = () => {
       </div>
 
       <div>
-     
-   
+        <Image
+          alt="Decoration 1"
+          className={styles.shape1}
+          width={88.992}
+          height={102}
+          src="/home/shape-1.png"
+        />
+        <Image
+          alt="Decoration 3"
+          className={styles.shape3}
+          width={96}
+          height={96}
+          src="/home/shape-3.png"
+        />
       </div>
     </section>
   );

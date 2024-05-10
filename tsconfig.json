@@ -21,6 +21,6 @@
     
     
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/pages/admin/jobs/new.jsx", "src/pages/admin/jobs/[id]/edit.jsx", ],
   "exclude": ["node_modules"]
 }

@@ -53,7 +53,7 @@ const NewCourse = () => {
 
   const editor = useEditor({
     extensions: [
-     
+     StarterKit,
       Underline,
       Link,
       Superscript,
